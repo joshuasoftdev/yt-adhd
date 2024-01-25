@@ -34,7 +34,7 @@ To install the extension, follow these steps:
 1. Download the extension files from the [GitHub repository]
 2. Open the Chrome extensions page by typing `chrome://extensions` into the address bar
 3. Enable developer mode by clicking the toggle switch in the top right corner
-   ![Developer Mode Toggle](https://i.imgur.com/6Z3X6ZM.png)
+   ![Developer Mode Toggle](https://developer.chrome.com/static/docs/extensions/mv2/getstarted/image/load-extension-f23f5f68dc7f2.png)
 4. Click the "Load unpacked" button in the top left corner
 5. Select the folder containing the extension files
 6. The extension should now be installed and ready to use
@@ -44,4 +44,4 @@ To install the extension, follow these steps:
 ## Conclusion
 
 I hope you enjoy using the YT ADHD Chrome extension! If you have any questions or suggestions, feel free to reach out to me at [
-](mailto:joshuasoftdev@gmail.com).
+](mailto:joshuasoftdev@gmail.com)
