@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "YT ADHD",
+  "description": "Hides the suggested vieos panel on YouTube videos and centers the contents of the element below it",
+  "version": "1.0",
+  "author": "@joshuasoftdev",
+  "permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": ["content.js"]
+}
