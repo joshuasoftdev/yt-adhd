@@ -26,3 +26,22 @@ Here is the code snippet from `content.js` that accomplishes this:
   document.head.appendChild(style);
 })();
 ```
+
+## Installation
+
+To install the extension, follow these steps:
+
+1. Download the extension files from the [GitHub repository]
+2. Open the Chrome extensions page by typing `chrome://extensions` into the address bar
+3. Enable developer mode by clicking the toggle switch in the top right corner
+   ![Developer Mode Toggle](https://i.imgur.com/6Z3X6ZM.png)
+4. Click the "Load unpacked" button in the top left corner
+5. Select the folder containing the extension files
+6. The extension should now be installed and ready to use
+7. Navigate to YouTube and enjoy!
+8. (Optional) If you want to disable the extension, simply click the toggle switch next to the extension in the extensions page
+
+## Conclusion
+
+I hope you enjoy using the YT ADHD Chrome extension! If you have any questions or suggestions, feel free to reach out to me at [
+](mailto:joshuasoftdev@gmail.com).
